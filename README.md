@@ -5,7 +5,7 @@
 #### Accordion consists of a straightforward user interface where there is a
 
 - Tabbed interface with a list of **questions** and **answers** stacked vertically.
-- Each **Question** can be expanded or collapsed to reveal the content associated with that item with the click of buttons i.e., ➕ to show and ➖ to hide.
+- Each **Question** can be expanded or collapsed to reveal the content associated with that item on the click of buttons i.e., ➕ to show and ➖ to hide.
 - Data is handled by the `data.js` file.
 - To run the project locally, clone the repo, `npm install` to install the dependencies, and `npm start` to start up the development server on default port 3000.
 
